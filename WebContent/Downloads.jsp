@@ -83,7 +83,7 @@
 				<div class="download-links">
 				<ul>
 				<li>
-				<a href="">Java Hard Client</a>
+				<a href="Learning_Chess_Client.exe">Java Hard Client</a>
 				</li>
 				<li>
 				<a href="">Iphone Client</a>
