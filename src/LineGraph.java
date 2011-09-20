@@ -100,7 +100,7 @@ public class LineGraph extends ApplicationFrame {
     public void chartAsPNG(JFreeChart aChart, int aWidth, int aHeight, String aFileName)
     {
     	 try {
-			ChartUtilities.writeChartAsPNG( new FileOutputStream("C:\\Users\\dmatthews\\Desktop\\Neumont\\Q8\\Pro380\\test\\WebContent\\Graph.png"),
+			ChartUtilities.writeChartAsPNG( new FileOutputStream("WebContent\\Graph.png"),
 			         aChart,
 			         aWidth, aHeight);
 		} catch (FileNotFoundException e) {
