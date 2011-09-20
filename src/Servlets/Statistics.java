@@ -6,7 +6,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import Graphing.LineGraph;
 
 
 /**
@@ -20,7 +19,6 @@ public class Statistics extends HttpServlet {
      */
     public Statistics() {
         super();
-        LineGraph graph = new LineGraph("Wins over Time");
     
     }
 
