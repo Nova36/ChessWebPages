@@ -73,7 +73,7 @@
 						<a href="index.jsp">Home</a>
 						</li>
 						<li>
-						<a href="Statistics.jsp">Statistics</a>
+						<a href="Statistics">Statistics</a>
 						</li>
 						</ul>
 						
@@ -83,7 +83,7 @@
 				<div class="download-links">
 				<ul>
 				<li>
-				<a href="installer.zip">Java Swing Client</a>
+				<a href="LearningChess.zip">Java Swing Client</a>
 				</li>
 				<li>
 				<a href="">iPhone Client</a>

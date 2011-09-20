@@ -47,7 +47,7 @@
 				<div class="links">
 						<ul>
 						<li>
-						<a href="Statistics.jsp">Statistics</a>
+						<a href="Statistics">Statistics</a>
 						</li>
 						<li>
 						<a href="About.jsp">About</a>
