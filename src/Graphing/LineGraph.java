@@ -97,21 +97,21 @@ public class LineGraph extends ApplicationFrame {
                 
         return chart;
         
-    } 
+    }
     
     public void chartAsPNG(JFreeChart aChart, int aWidth, int aHeight, String aFileName)
     {
-    	 try {
-			ChartUtilities.writeChartAsPNG( new FileOutputStream("C:\\Users\\dmatthews\\Desktop\\Neumont\\Q8\\Pro380\\test\\WebContent"),
-			         aChart,
-			         aWidth, aHeight);
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//    	 try {
+//			ChartUtilities.writeChartAsPNG( new FileOutputStream("C:\\Users\\dmatthews\\Desktop\\Neumont\\Q8\\Pro380\\test\\WebContent"),
+//			         aChart,
+//			         aWidth, aHeight);
+//		} catch (FileNotFoundException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
     }
 
     // ****************************************************************************
