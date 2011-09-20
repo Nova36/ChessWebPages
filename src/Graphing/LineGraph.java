@@ -97,7 +97,7 @@ public class LineGraph extends ApplicationFrame {
                 
         return chart;
         
-    }
+    } 
     
     public void chartAsPNG(JFreeChart aChart, int aWidth, int aHeight, String aFileName)
     {
