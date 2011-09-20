@@ -83,10 +83,10 @@
 				<div class="download-links">
 				<ul>
 				<li>
-				<a href="Learning_Chess_Client.exe">Java Hard Client</a>
+				<a href="installer.zip">Java Swing Client</a>
 				</li>
 				<li>
-				<a href="">Iphone Client</a>
+				<a href="">iPhone Client</a>
 				</li>
 				<li>
 				<a href="">Android Client</a>
