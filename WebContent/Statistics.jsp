@@ -59,7 +59,8 @@
 				<hr style="clear: both; color: white; size: 3;"/>
 				<h1 style="color: white; font-family: Times New Roman; text-align: center;">Statistics</h1>
 				<div class="picture">
-				<img src="Graph.png">
+				<img src="WinRatioOverTime.png"><br/>
+				<img src="AverageMovesPerGame.png">
 				</div>
 				
 
